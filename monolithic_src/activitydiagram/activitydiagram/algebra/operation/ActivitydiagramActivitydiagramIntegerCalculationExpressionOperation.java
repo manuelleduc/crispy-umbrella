@@ -1,5 +1,0 @@
-package activitydiagram.activitydiagram.algebra.operation;
-
-public interface ActivitydiagramActivitydiagramIntegerCalculationExpressionOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramIntegerExpressionOperation {
-	void execute();
-}

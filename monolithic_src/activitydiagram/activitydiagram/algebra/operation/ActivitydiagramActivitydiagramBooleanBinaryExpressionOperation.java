@@ -1,5 +1,0 @@
-package activitydiagram.activitydiagram.algebra.operation;
-
-public interface ActivitydiagramActivitydiagramBooleanBinaryExpressionOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramBooleanExpressionOperation {
-	void execute();
-}

@@ -1,0 +1,4 @@
+package algebra.operation;
+
+public interface Activitydiagram$defaultIntegerComparisonExpressionOperation extends algebra.operation.Activitydiagram$defaultIntegerExpressionOperation {
+}

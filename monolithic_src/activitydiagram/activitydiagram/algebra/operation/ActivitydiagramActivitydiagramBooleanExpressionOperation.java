@@ -1,6 +1,0 @@
-package activitydiagram.activitydiagram.algebra.operation;
-
-public interface ActivitydiagramActivitydiagramBooleanExpressionOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramExpressionOperation {
-	void assignValue(Boolean value);
-	Boolean getCurrentValue(activitydiagram.BooleanVariable variable);
-}

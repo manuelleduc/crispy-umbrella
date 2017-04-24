@@ -1,0 +1,4 @@
+package algebra.operation;
+
+public interface Activitydiagram$defaultBooleanBinaryExpressionOperation extends algebra.operation.Activitydiagram$defaultBooleanExpressionOperation {
+}
