@@ -1,0 +1,5 @@
+package activitydiagramoa.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramoaActivitydiagramIntegerExpressionOperation extends activitydiagramoa.activitydiagram.algebra.operation.ActivitydiagramoaActivitydiagramExpressionOperation {
+	Integer getCurrentValue(activitydiagramoa.Variable variable);
+}

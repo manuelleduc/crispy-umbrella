@@ -1,0 +1,17 @@
+/**
+ */
+package activitydiagramoa;
+
+
+/**
+ * <!-- begin-user-doc -->
+ * A representation of the model object '<em><b>Join Node</b></em>'.
+ * <!-- end-user-doc -->
+ *
+ *
+ * @see activitydiagramoa.ActivitydiagramoaPackage#getJoinNode()
+ * @model
+ * @generated
+ */
+public interface JoinNode extends ControlNode {
+} // JoinNode
