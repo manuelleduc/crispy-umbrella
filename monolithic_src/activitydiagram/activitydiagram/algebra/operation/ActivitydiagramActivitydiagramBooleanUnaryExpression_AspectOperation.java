@@ -1,0 +1,5 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramBooleanUnaryExpression_AspectOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramBooleanUnaryExpressionOperation, activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramBooleanExpression_AspectOperation {
+	void execute();
+}

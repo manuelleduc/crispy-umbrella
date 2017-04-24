@@ -1,0 +1,4 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramExecutableNode_AspectOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramExecutableNodeOperation, activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramActivityNode_AspectOperation {
+}

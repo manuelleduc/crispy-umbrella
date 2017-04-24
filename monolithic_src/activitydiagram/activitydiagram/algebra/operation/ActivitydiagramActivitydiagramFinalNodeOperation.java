@@ -1,0 +1,4 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramFinalNodeOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramControlNodeOperation {
+}

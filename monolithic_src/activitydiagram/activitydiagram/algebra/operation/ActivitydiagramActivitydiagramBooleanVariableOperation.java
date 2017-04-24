@@ -1,0 +1,4 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramBooleanVariableOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramVariableOperation {
+}

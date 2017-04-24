@@ -1,0 +1,5 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramIntegerExpression_AspectOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramIntegerExpressionOperation, activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramExpression_AspectOperation {
+	Integer getCurrentValue(activitydiagram.Variable variable);
+}

@@ -1,0 +1,7 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramActivityEdge_AspectOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramActivityEdgeOperation {
+	void sendOffer(org.eclipse.emf.common.util.EList<activitydiagram.Token> tokens);
+	org.eclipse.emf.common.util.EList<activitydiagram.Token> takeOfferedTokens();
+	Boolean hasOffer();
+}

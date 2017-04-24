@@ -1,0 +1,5 @@
+package activitydiagram.activitydiagram.algebra.operation;
+
+public interface ActivitydiagramActivitydiagramForkedToken_AspectOperation extends activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramForkedTokenOperation, activitydiagram.activitydiagram.algebra.operation.ActivitydiagramActivitydiagramToken_AspectOperation {
+	void withdraw();
+}
